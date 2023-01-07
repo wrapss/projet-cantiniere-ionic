@@ -1,0 +1,8 @@
+{
+  "name": "projetCantiniereIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ffb03ead"
+}
